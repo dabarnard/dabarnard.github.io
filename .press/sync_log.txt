@@ -1,21 +1,22 @@
-Syncing notes with 'Nokia 7.2' on Sat, 27 Feb 2021 21:00:51 UTC
-Resetting to sha1: 6d6344d (Update sync logs).
+Syncing notes with 'Nokia 7.2' on Sat, 27 Feb 2021 21:01:08 UTC
+Resetting to sha1: 038ea43 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • untitled_note.md (id=1d4676d7-01bd-4ceb-8677-6dd86935acd9)
+ • bottle__thanksgiving.md (old = untitled_note.md, id=1d4676d7-01bd-4ceb-8677-6dd86935acd9)
    creating/updating
 
-Processing commits from 6d6344d to 5a26583
- • 6d6344d - Update sync logs
- • 5a26583 - Update 'untitled_note.md'
+Processing commits from 038ea43 to 5b2f397
+ • 038ea43 - Update sync logs
+ • 142c6a2 - Rename 'untitled_note.md' → 'bottle__thanksgiving.md'
+ • 5b2f397 - Update 'bottle__thanksgiving.md'
 
 Syncing changes (2)
- • Add(path=.press/registers/untitled_note)
- • Add(path=untitled_note.md)
-   skipping untitled_note.md (already saved)
+ • Rename(fromPath=.press/registers/untitled_note, toPath=.press/registers/bottle__thanksgiving)
+ • Add(path=bottle__thanksgiving.md)
+   skipping bottle__thanksgiving.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Sat, 27 Feb 2021 21:00:57 UTC
+Wrapping up sync (before push) on Sat, 27 Feb 2021 21:01:14 UTC
