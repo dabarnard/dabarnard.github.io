@@ -1,51 +1,21 @@
-Syncing notes with 'Nokia 7.2' on Tue, 09 Feb 2021 19:46:02 UTC
-Resetting to sha1: 5f5fcdc (Update sync logs).
+Syncing notes with 'Nokia 7.2' on Sat, 27 Feb 2021 21:00:51 UTC
+Resetting to sha1: 6d6344d (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (6):
- • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
-   picking local copy and discarding remote (if any)
- • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
-   picking local copy and discarding remote (if any)
- • untitled_note.md (id=9e1fdfe5-1be4-4773-a1fe-b821be93b597)
-   picking local copy and discarding remote (if any)
-   deleting untitled_note.md
- • untitled_note.md (id=b2e9b5a8-d5e5-4ab4-a2b0-122090fdf9df)
-   picking local copy and discarding remote (if any)
-   deleting untitled_note.md
- • archive/untitled_note.md (id=f55bb0d0-6c2e-4993-9715-b19ebbd4fccf)
-   picking local copy and discarding remote (if any)
-   deleting archive/untitled_note.md
- • untitled_note.md (id=f237de3c-ffdc-46f3-ba78-b21907243750)
-   picking local copy and discarding remote (if any)
-   deleting untitled_note.md
+Committing unsynced notes (1):
+ • untitled_note.md (id=1d4676d7-01bd-4ceb-8677-6dd86935acd9)
+   creating/updating
 
-Processing commits from 5f5fcdc to e463973
- • 5f5fcdc - Update sync logs
- • 84fc0c7 - Update 'untitled_note.md'
- • 4105622 - Delete 'untitled_note.md'
- • 80ffa94 - Update 'untitled_note.md'
- • a91915d - Delete 'untitled_note.md'
- • 0ac789e - Update 'archive/untitled_note.md'
- • 9d78e21 - Delete 'archive/untitled_note.md'
- • 780a057 - Update 'untitled_note.md'
- • e463973 - Delete 'untitled_note.md'
+Processing commits from 6d6344d to 5a26583
+ • 6d6344d - Update sync logs
+ • 5a26583 - Update 'untitled_note.md'
 
 Syncing changes (2)
- • Add(path=.press/registers/archive/untitled_note)
  • Add(path=.press/registers/untitled_note)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(9e1fdfe5-1be4-4773-a1fe-b821be93b597)
- • untitled_note.md
-   permanently deleting NoteId(b2e9b5a8-d5e5-4ab4-a2b0-122090fdf9df)
- • archive/untitled_note.md
-   permanently deleting NoteId(f55bb0d0-6c2e-4993-9715-b19ebbd4fccf)
- • untitled_note.md
-   permanently deleting NoteId(f237de3c-ffdc-46f3-ba78-b21907243750)
+ • Add(path=untitled_note.md)
+   skipping untitled_note.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Tue, 09 Feb 2021 19:46:06 UTC
+Wrapping up sync (before push) on Sat, 27 Feb 2021 21:00:57 UTC
