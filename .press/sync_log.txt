@@ -1,22 +1,20 @@
-Syncing notes with 'Nokia 7.2' on Sun, 25 Apr 2021 11:16:36 UTC
-Resetting to sha1: 5ccbab3 (Update sync logs).
+Syncing notes with 'Nokia 7.2' on Sun, 25 Apr 2021 11:17:15 UTC
+Resetting to sha1: 5e20629 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • mj_1.md (old = mj_2.md, id=746cb05a-a72f-444d-80cd-26aaaa0eb6a4)
+ • mj_1.md (id=746cb05a-a72f-444d-80cd-26aaaa0eb6a4)
    creating/updating
 
-Processing commits from 5ccbab3 to 1a62cb0
- • 5ccbab3 - Update sync logs
- • 515e19c - Rename 'mj_2.md' → 'mj_1.md'
- • 1a62cb0 - Update 'mj_1.md'
+Processing commits from 5e20629 to b0609fb
+ • 5e20629 - Update sync logs
+ • b0609fb - Update 'mj_1.md'
 
-Syncing changes (2)
- • Rename(fromPath=.press/registers/mj_2.meta, toPath=.press/registers/mj_1.meta)
- • Add(path=mj_1.md)
+Syncing changes (1)
+ • Modify(path=mj_1.md)
    skipping mj_1.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Sun, 25 Apr 2021 11:16:40 UTC
+Wrapping up sync (before push) on Sun, 25 Apr 2021 11:17:19 UTC
